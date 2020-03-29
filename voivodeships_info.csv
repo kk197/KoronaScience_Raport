@@ -1,17 +1,17 @@
-Voivodeships,Population,Pop. per km^2
-Lower Silesia (DS),2901000,145
-Kuyavia-Pomerania (KP),2079900,116
-Lubusz(LB),1015440,73
-Łódź (LD),2470610,136
-Lublin (LU),2121600,84
-Lesser Poland (MA),3395700,224
-Masovia (MZ),5391813,152
-Opole (OP),988031,105
-Podlaskie (PD),1182700,59
-Subcarpathian (PK),2128747,119
-Pomerania(PM),2328200,127
-Holy Cross (SK),1244400,106
-Silesia (SL),4540100,368
-Warmia-Masuria (WN),1431100,59
-Greater Poland (WP),3490597,117
-West Pomerania (ZP),1703000,74
+Voivodeships,Population,Pop. per km^2,Urbanization,Gross domestic product
+Lower Silesia (DS),2901000,145,68.61,57228
+Kuyavia-Pomerania (KP),2079900,116,59.09,41875
+Lubusz(LB),1015440,73,64.95,42755
+Łódź (LD),2470610,136,62.55,48126
+Lublin (LU),2121600,84,46.46,35712
+Lesser Poland (MA),3395700,224,48.19,47272
+Masovia (MZ),5391813,152,64.4,83123
+Opole (OP),988031,105,53.3,41080
+Podlaskie (PD),1182700,59,60.79,37077
+Subcarpathian (PK),2128747,119,41.09,36088
+Pomerania(PM),2328200,127,63.66,50001
+Holy Cross (SK),1244400,106,44.86,36970
+Silesia (SL),4540100,368,76.73,53654
+Warmia-Masuria (WN),1431100,59,58.99,36306
+Greater Poland (WP),3490597,117,54.27,56496
+West Pomerania (ZP),1703000,74,68.5,43150
